@@ -1,15 +1,7 @@
-# Default starter for Gridsome
+# Gridsome Starter
 
-This is the project you get when you run `gridsome create new-project`.
+A starter repo for Gridsome (Vue.js) projects with TypeScript, Vue Property Decorator and Vue Class Component.
 
-### 1. Install Gridsome CLI tool if you don't have
+Static-site generator using TypeScript, to generate dist/ folder
 
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
-# gridsome-starter-vue
+use gridsome develop to start local environment.
